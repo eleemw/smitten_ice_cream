@@ -32,6 +32,6 @@ Ruby Essentials
 - [ ]. Variable scopes
 - [ ]. Object instantiation
 -  [ ]. `Self` keyword
- [ ]. Class vs. Instance methods
+- [ ]. Class vs. Instance methods
  [ ]. Method return types
  [ ]. Iterate thru collections
