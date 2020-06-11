@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "smitten_cli"
   spec.version       = SmittenCli::VERSION
   spec.authors       = ["Erica Murdock-Waters"]
-  spec.email         = ["eleemw@gmail.com"]
+  spec.email         = ["emurdock.waters@gmail.com"]
 
   spec.summary       = %q{Smitten Ice Cream CLI Gem}
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
