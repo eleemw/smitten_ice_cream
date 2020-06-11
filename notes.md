@@ -35,3 +35,5 @@ Ruby Essentials
 - [ ]. Class vs. Instance methods
 - [ ]. Method return types
 -  [ ] Iterate thru collections
+- [x] works
+- [x] works too
