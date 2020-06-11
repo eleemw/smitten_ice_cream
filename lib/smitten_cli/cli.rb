@@ -1,0 +1,3 @@
+class SmittenCli::CLI
+    
+end
