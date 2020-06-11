@@ -33,5 +33,5 @@ Ruby Essentials
 - [ ]. Object instantiation
 -  [ ]. `Self` keyword
 - [ ]. Class vs. Instance methods
- [ ]. Method return types
- [ ]. Iterate thru collections
+- [ ]. Method return types
+-  [ ] Iterate thru collections
