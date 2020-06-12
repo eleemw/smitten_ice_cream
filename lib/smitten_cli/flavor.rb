@@ -1,0 +1,3 @@
+class SmittenCli::Flavor
+    
+end
