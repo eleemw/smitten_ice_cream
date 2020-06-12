@@ -11,6 +11,7 @@ class SmittenCli::CLI
             # View ingredients
             # Exit program
     # Collect User input
+    # Get the flavor User selected
     # Print description of flavor User selected
     # Print menu options    
     # Collect User input
