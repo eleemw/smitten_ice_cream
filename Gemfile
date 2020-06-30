@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in smitten_cli.gemspec
+# Specify your gem's dependencies in smitten_ice_cream.gemspec
 gemspec
 
 #TODO:  Added rake and rspec as dependencies to gemspec. Believe ln 7&8 can be deleted, but need to confirm

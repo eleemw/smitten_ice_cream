@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "smitten_cli"
+require "smitten_ice_cream"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

@@ -1,6 +1,6 @@
-require "smitten_cli/version"
+require "smitten_ice_cream/version"
 
-module SmittenCli
+module SmittenIceCream
   class Error < StandardError; end
   # Your code goes here...
 end

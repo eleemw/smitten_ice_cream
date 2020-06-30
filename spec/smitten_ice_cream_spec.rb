@@ -1,6 +1,6 @@
-RSpec.describe SmittenCli do
+RSpec.describe SmittenIceCream do
   it "has a version number" do
-    expect(SmittenCli::VERSION).not_to be nil
+    expect(SmittenIceCream::VERSION).not_to be nil
   end
 
   it "does something useful" do

@@ -1,3 +1,3 @@
-module SmittenCli
+module SmittenIceCream
   VERSION = "0.1.0"
 end

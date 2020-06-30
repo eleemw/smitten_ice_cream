@@ -1,6 +1,6 @@
-class SmittenCli::CLI
+class SmittenIceCream::CLI
    
-    # Start Smitten CLI App
+    # Start Smitten Ice Cream App
     # Print greeting
     # Get flavors from Smitten website
     # Create new flavor objects & save

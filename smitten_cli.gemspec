@@ -1,8 +1,8 @@
-require_relative 'lib/smitten_cli/version'
+require_relative 'lib/smitten_ice_cream/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "smitten_cli"
-  spec.version       = SmittenCli::VERSION
+  spec.name          = "smitten_ice_cream"
+  spec.version       = SmittenIceCream::VERSION
   spec.authors       = ["Erica Murdock-Waters"]
   spec.email         = ["emurdock.waters@gmail.com"]
 
